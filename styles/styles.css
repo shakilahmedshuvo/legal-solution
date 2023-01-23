@@ -3,9 +3,11 @@
     font-family: 'Poppins', sans-serif;
 }
 
-h1 {
+h1,
+h2 {
     font-family: 'EB Garamond', serif;
 }
+
 
 /* i am using a coustom css class for all peragraphs item */
 .lj-pera {
