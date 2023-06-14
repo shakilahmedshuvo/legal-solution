@@ -1,3 +1,4 @@
+/* custom css */
 * {
     font-family: 'EB Garamond', serif;
     font-family: 'Poppins', sans-serif;
@@ -8,14 +9,13 @@ h2 {
     font-family: 'EB Garamond', serif;
 }
 
-
-/* i am using a coustom css class for all peragraphs item */
+/* custom css */
+/* i am using a custom css class for all paragraphs item */
 .lj-pera {
     font-size: 16px !important;
     font-weight: 400 !important;
     color: #707070;
 }
-
 
 /* css custom class for  btn background color  */
 .lj-btn-bg {
